@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **<a href="https://salaah.org.in" style="text-decoration: none; color:red;">Salaah -website</a>**
+- 🔭 I’m currently working on **<a href="https://salaah.org.in" style="textDecoration: none; color:red;">Salaah -website</a>**
 
 - 🌱 I’m currently learning **react js, python Machine Learning, java**
 

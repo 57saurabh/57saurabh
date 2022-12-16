@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **saurabhofficial203@gmail.com**
 
+<img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" >
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saurabh_6_7_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_6_7_0" height="30" width="40" /></a>

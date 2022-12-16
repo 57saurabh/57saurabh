@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **<a href="https://salaah.org.in" style="textDecoration: none; color:red;">Salaah -website</a>**
+- 🔭 I’m currently working on **<a href="https://salaah.org.in" >Salaah - Website</a>**
 
 - 🌱 I’m currently learning **react js, python Machine Learning, java**
 
-- 💬 Ask me about **react, javascript,css**
+- 💬 Ask me about **react, javascript, css**
 
 - 📫 How to reach me **saurabhofficial203@gmail.com**
 <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" >

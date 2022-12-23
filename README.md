@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=57saurabh&show_icons=true&locale=en" alt="57saurabh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=57saurabh&" alt="57saurabh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=57saurabh&" alt="57saurabh" /></p>
 <p><img align="center" src="https://leetcode.card.workers.dev/Saurabh_Srivastava10?theme=dark&font=baloo&extension=null" /></p>
 
